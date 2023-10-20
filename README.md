@@ -1,2 +1,2 @@
 # infovis
-Repositorio con visualizaciones. 
+
