@@ -1,2 +1,2 @@
 # infovis
-Visualización de Datos, materia
+Visualización de Datos
