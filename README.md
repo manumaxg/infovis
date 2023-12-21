@@ -1,3 +1,3 @@
 # infovis
 Visualización de Datos
-Materia ITBA
+Materia ITBA - Especialización 2023
